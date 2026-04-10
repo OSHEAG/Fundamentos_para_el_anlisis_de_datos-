@@ -1,0 +1,8 @@
+# Semana 3: EDA Avanzado y Preparación Estocástica
+En esta fase se realizó el tratamiento avanzado de la serie de tiempo del río Las Ceibas.
+
+### Objetivos Alcanzados:
+* **Estabilización de Varianza:** Transformación logarítmica para mitigar heterocedasticidad.
+* **Pruebas de Estacionariedad:** Validación mediante test de Dickey-Fuller Aumentado (ADF) y KPSS.
+* **Descomposición STL:** Aislamiento de tendencia multianual y componente estacional bimodal.
+* **Análisis de Autocorrección:** Identificación de memoria serial (PACF 0.90) para el modelado SARIMA.
